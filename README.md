@@ -31,14 +31,3 @@
       <div/>
       
       
-      ### Public repos
-
-![stats][]
-Stats by [tipsy/profile-summary-for-github][]
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MohammedModather2020/MohammedModather2020)
-
-[GitHub]: https://github.com/MohammedModather2020
-
-[tipsy/profile-summary-for-github]: https://profile-summary-for-github.com/user/israel-laguan
-      
