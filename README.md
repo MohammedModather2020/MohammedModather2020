@@ -1,18 +1,24 @@
-### Hi there 👋
+## Hi there 👋
 #### My name is Mohammed Modather, I am working as Front End Developer React Js +3 years
 * I'm 22 years old
 * I study information systems at Omdurman Islamic University 2016<sup>th</sup> - 2022<sup>th</sup>
 
 ### Languages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
 ### Technologies
 
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+  ![React](https://img.shields.io/badge/-React-000?&logo=React)
+  ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
+  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
+  ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+
 
 ### ✉️ Find me on:
 
