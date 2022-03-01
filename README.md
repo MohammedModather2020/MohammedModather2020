@@ -34,4 +34,8 @@
       </a>
       <div/>
       
+NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
+
+---
+      
       
