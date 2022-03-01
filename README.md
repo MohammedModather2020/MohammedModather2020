@@ -39,9 +39,9 @@
         <!-- wi*quL3fcV --><img   width = 80% src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedmodather2020&hide=html&&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
       </a>
       <div/>
-      
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
 ---
+ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub contributors](https://img.shields.io/github/contributors/MohammedModather2020/creative-profile-readme)](https://github.com/MohammedModather2020/creative-profile-readme/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/MohammedModather2020/creative-profile-readme)](https://github.com/MohammedModather2020/creative-profile-readme/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/MohammedModather2020/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/MohammedModather2020/creative-profile-readme.svg)](https://github.com/MohammedModather2020/creative-profile-readme)
       
       
