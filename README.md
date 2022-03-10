@@ -19,7 +19,6 @@
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 
-
 ### ✉️ Find me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-modather2020/)](https://www.linkedin.com/in/mohammed-modather2020/)
@@ -38,7 +37,7 @@
        <a href="https://m4m2020.000webhostapp.com/my-work/cv/index.html">
         <!-- wi*quL3fcV --><img   width = 80% src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedmodather2020&hide=html&&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
       </a>
-  <div/>
+ <div/>
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
 ---
