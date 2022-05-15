@@ -6,7 +6,7 @@
 * I know how to make almost everything responsive and work in a Mobile-first approach.
 * I love to make reusable components and always follow the best practices.
 * I have a creative eye, passion for visual design and a penchant for seeking pixel perfection in the finer details of UI and UX!
-
+ 
  
 * I'm fast learner and always working to develop my skills and learn new things and seeking always for the latest technologies and looking for an opportunity that takes me to a higher level
 
