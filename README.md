@@ -25,7 +25,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
-### Technologies 
+### Technologies  
 
   ![React](https://img.shields.io/badge/-React-000?&logo=React)
   ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
