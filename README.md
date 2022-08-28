@@ -7,7 +7,7 @@
 * I love to make reusable components and always follow the best practices.
 * I have a creative eye, passion for visual design and a penchant for seeking pixel perfection in the finer details of UI and UX!
  
- 
+   
 * I'm fast learner and always working to develop my skills and learn new things and seeking always for the latest technologies and looking for an opportunity that takes me to a higher level
 
 * I believe that the hard work that is governed by the system is the way to success and this is my way of life
