@@ -1,20 +1,20 @@
 ## Hi there 👋                                                                                           
                                                                                              
- My name is <strong>Mohammed Modather </strong> ,I am working as a Frontend Web Developer with more than 4+ years of experience in building websites using technologies such as HTML, CSS3, JS. I can help you with the front-end development from designing to coding. Using the latest web standards and best practices to create efficient single-page applications (SPA), cross-browser compatible applications that comply with all UX guidelines and performance requirements. by using React JS & Next JS for mobile apps and Responsive Designing techniques in the framework.    
+ My name is <strong>Mohammed Modather </strong>, I am working as a Frontend Web Developer with more than 4+ years of experience in building websites using technologies such as HTML, CSS3, and JS. I can help you with the front-end development from designing to coding. Using the latest web standards and best practices to create efficient single-page applications (SPA), cross-browser compatible applications that comply with all UX guidelines and performance requirements. by using React JS & Next JS for mobile apps and Responsive Designing techniques in the framework.    
            
         
 * I know how to make almost everything responsive and work in a Mobile-first approach.
 * I love to make reusable components and always follow the best practices.
-* I have a creative eye, passion for visual design and a penchant for seeking pixel perfection in the finer details of UI and UX!
+* I have a creative eye, a passion for visual design, and a penchant for seeking pixel perfection in the finer details of UI and UX!
  
    
-* I'm fast learner and always working to develop my skills and learn new things and seeking always for the latest technologies and looking for an opportunity that takes me to a higher level
+* I'm a fast learner and always working to develop my skills and learn new things and seeking the latest technologies and looking for an opportunity that takes me to a higher level
 
 * I believe that the hard work that is governed by the system is the way to success and this is my way of life
 
 * I always like to explore new opportunities.
 
-<!-- #### My name is Mohammed Modather, I am working as Front End Developer React Js +3 years   
+<!-- #### My name is Mohammed Modather, I have been working as Front End Developer in React Js +3 years   
 * I'm 22 years old   
 * I study information systems at Omdurman Islamic University 2016<sup>th</sup> - 2022<sup>th</sup> -->
 
