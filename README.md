@@ -1,6 +1,10 @@
 ## Hi there 👋                                                                                             
                                                                                                   
- My name is <strong>Mohammed Modather </strong>, I am working as a Frontend Web Developer with more than 4+ years of experience in building websites using technologies such as HTML, CSS3, and JS. I can help you with the front-end development from designing to coding. Using the latest web standards and best practices to create efficient single-page applications (SPA), cross-browser compatible applications that comply with all UX guidelines and performance requirements. by using React JS & Next JS for mobile apps and Responsive Designing techniques in the framework.    
+Experienced and Detail-Oriented Front-End Web Developer with over four years of dedicated expertise in crafting dynamic websites. Proficient in a range of essential technologies including HTML, CSS3, JavaScript, etc.., I have honed my skills to deliver exceptional results. My portfolio showcases a proven track record of successfully executing independent and collaborative projects, with a specific focus on creating captivating landing pages and comprehensive website solutions.
+
+My development approach revolves around staying at the forefront of industry trends, consistently utilizing the latest web standards, and adhering to best practices. I specialize in developing efficient Single-Page Applications (SPAs) that are not only cross-browser compatible but also fully compliant with all user experience (UX) guidelines and stringent performance requirements. My toolkit includes React JS and Next JS, which I expertly wield to build website-responsive that meets the demands of today's tech-savvy users.
+
+In addition to my technical skills, I prioritize Responsive Design techniques within the framework, ensuring that websites and applications are visually appealing and functional across various devices and screen sizes. My commitment to excellence extends to every aspect of the web development process, from concept to deployment, resulting in user-friendly, high-quality digital experiences that exceed expectations.  
               
           
 * I know how to make almost everything responsive and work in a Mobile-first approach.
@@ -13,11 +17,7 @@
 * I believe that the hard work that is governed by the system is the way to success and this is my way of life
 
 * I always like to explore new opportunities.
-
-<!-- #### My name is Mohammed Modather, I have been working as Front End Developer in React Js +3 years   
-* I'm 22 years old   
-* I study information systems at Omdurman Islamic University 2016<sup>th</sup> - 2022<sup>th</sup> -->
-
+ 
 ### Languages
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
@@ -36,8 +36,8 @@
 
 ### ✉️ Find me on:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mo-modather/)](https://www.linkedin.com/in/mo-modather/)
-[![Website Badge](https://img.shields.io/badge/-Personal.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://m4m2020.000webhostapp.com/my-work/cv/index.html)](https://m4m2020.000webhostapp.com/my-work/cv/index.html)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mo-modather/)](https://www.linkedin.com/in/mo-modather)
+[![Website Badge](https://img.shields.io/badge/-Personal.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://m-mudather.com)](https://m-mudather.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MohammedModath7)](https://twitter.com/MohammedModath7)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:mohammedmodather144@gmail.com)
  
