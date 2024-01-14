@@ -1,4 +1,4 @@
-  ## Hi there 👋                                                                                                   
+  ## Hi there 👋                                                                                                     
                                                                                                          
 Experienced and Detail-Oriented Front-End Web Developer with over four years of dedicated expertise in crafting dynamic websites. Proficient in a range of essential technologies including HTML, CSS3, JavaScript, etc.., I have honed my skills to deliver exceptional results. My portfolio showcases a proven track record of successfully executing independent and collaborative projects, with a specific focus on creating captivating landing pages and comprehensive website solutions.
 
