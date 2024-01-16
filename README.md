@@ -1,7 +1,7 @@
   ## Hi there 👋                                                                                                     
                                                                                                          
 Experienced and Detail-Oriented Front-End Web Developer with over four years of dedicated expertise in crafting dynamic websites. Proficient in a range of essential technologies including HTML, CSS3, JavaScript, etc.., I have honed my skills to deliver exceptional results. My portfolio showcases a proven track record of successfully executing independent and collaborative projects, with a specific focus on creating captivating landing pages and comprehensive website solutions.
-
+  
 My development approach revolves around staying at the forefront of industry trends, consistently utilizing the latest web standards, and adhering to best practices. I specialize in developing efficient Single-Page Applications (SPAs) that are not only cross-browser compatible but also fully compliant with all user experience (UX) guidelines and stringent performance requirements. My toolkit includes React JS and Next JS, which I expertly wield to build website-responsive that meets the demands of today's tech-savvy users.
 
 In addition to my technical skills, I prioritize Responsive Design techniques within the framework, ensuring that websites and applications are visually appealing and functional across various devices and screen sizes. My commitment to excellence extends to every aspect of the web development process, from concept to deployment, resulting in user-friendly, high-quality digital experiences that exceed expectations.  
